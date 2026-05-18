@@ -30,7 +30,7 @@ This script is a full rework and fusion of the popular Chrome extensions [Studio
 ### 🔧 Installation & Support
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) or Violentmonkey.
-2. Create a new script and paste the **RPStudio** code.
+2. Create a new script and paste the **RPStudio** https://github.com/darthalex2014/RPStudio/blob/main/RPStudio-1.0.user.js code.
 3. Refresh Google AI Studio and look for the **★** icon in the top right corner.
 
 *Based on original research and code by OurPrince (BTStudio/Studio.lab).*
