@@ -1,12 +1,8 @@
----
-
-# 🛑 STOP CONTENT DELETION IN GOOGLE AI STUDIO! 🛑
+🛑 STOP CONTENT DELETION IN GOOGLE AI STUDIO! 🛑
 
 **RPStudio** is a powerful Userscript for Tampermonkey/Violentmonkey that provides a complete solution to the "Prohibited content" error. **It prevents Google's censorship filters from deleting partially generated responses**, ensuring you never lose your progress again.
 
 This script is a full rework and fusion of the popular Chrome extensions [Studio.lab](https://github.com/dorimommy/Studio.lab) and [BTStudio](https://github.com/dorimommy/BTStudio), now optimized for a seamless userscript experience with native UI integration.
-
----
 
 ### 🚀 Key Features
 
